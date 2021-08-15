@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  width: 500pxs;
+}
+
+form {
+  width: 100%;
+}
+
+form input {
+  width: 100%;
+  line-height: 40px;
+  border-radius: 20px;
+  outline-style: none;
+  font-size: 20px;
+  border: 2px solid red;
+}
+
+button {
+  background-color: red;
+  color: white;
+  outline-style: none;
+  border-radius: 5px;
+}
+
+form button {
+  height: 40px;
+  font-size: 20px;
+}
+
+ul {
+  margin: auto;
+  margin-top: 20px;
+}
+
+ul li {
+  display: inline-block;
+  width: 80%;
+  font-size: 20px;
+  list-style: none;
+  color: white;
+  border-bottom: 2px solid lime;
+  text-align: left;
+}
+
+.done {
+  text-decoration-line: line-through;
+  text-decoration-color: red;
+}
